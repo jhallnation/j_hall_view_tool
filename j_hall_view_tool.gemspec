@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Displays copyright}
   spec.description   = %q{Will add copyright symbol with year and name}
-  spec.homepage      = "devCampPortfolio"
+  spec.homepage      = "https://www.devCampPortfolio.com"
   spec.license       = "MIT"
 
 
